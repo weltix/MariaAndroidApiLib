@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">MariaApiLib</string>
+    <string name="title_activity_btdevice_select">Укажите на ЭККР</string>
+    <string name="title_activity_select_bluetooth">Выбор BT устройства</string>
+    <string name="title_button_Get_BtDev">Применить</string>
+    <string name="title_button_Cancel_BtDev">Отмена</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">MariaApiLib</string>
+    <string name="title_activity_btdevice_select">Select cashier</string>
+    <string name="title_activity_select_bluetooth">Select Bluetooth device</string>
+    <string name="title_button_Get_BtDev">Apply</string>
+    <string name="title_button_Cancel_BtDev">Cancel</string>
+
+
+</resources>

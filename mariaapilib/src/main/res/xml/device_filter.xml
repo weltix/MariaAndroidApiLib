@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- 0x10C4 / 0xEA60: CP210x UART Bridge -->
+    <usb-device vendor-id="4292" product-id="60000" />
+    <usb-device vendor-id="4292" product-id="60000" class="255" subclass="00" protocol="00" />
+
+</resources>
